@@ -1,4 +1,4 @@
-# PiRC2: Subscription Contract API (Pi Request for Comment)
+nice good# PiRC2: Subscription Contract API (Pi Request for Comment)
 
 This document specifies the Subscription Contract API — a Soroban smart contract that manages recurring payment subscriptions on the Pi Network. It defines how merchants register services with configurable pricing and billing periods, how subscribers can subscribe with or without upfront commitment, and how merchants process periodic charges via pre-approved token allowances.
 
